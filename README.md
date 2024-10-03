@@ -6,7 +6,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 🎥 My Twitch Channel: https://www.twitch.tv/agentblacktigerstreams
-- 📺 My YouTube Channel: https://www.youtube.com/@theknowledgezoneinternatio6948
+- 📺 My YouTube Channel: [![mission log; black tiger]](https://www.youtube.com/@theknowledgezoneinternatio6948)
+- ☕ Support me vis Ko-fi :3 : [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E111ARI6)
 
 <!---
 MissionLogBlackTiger/MissionLogBlackTiger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
